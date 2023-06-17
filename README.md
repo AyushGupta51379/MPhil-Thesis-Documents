@@ -1,6 +1,8 @@
 ### Copyright: Reproduction prohibited: No work can be copied from these documents without the written consent of the author: Ayush Gupta
 
-# MPhil-Thesis-Documents
+## MPhil-Thesis-Documents: From Aug 2022
+
+Degree: MPhil in Computer Science and Engineering from The Hong Kong University of Science and Technology (HKUST)
 
 The MPhil thesis of Ayush Gupta (author), completed at HKUST, is a testament to his extensive research conducted between 2020 and 2022. The focus of this work spans several areas, including Data Science, Machine Learning, and Software Engineering. While this thesis encapsulates the primary components of the research, it doesn't entirely encompass the full range of scientific and engineering efforts put forth by the author.
 
