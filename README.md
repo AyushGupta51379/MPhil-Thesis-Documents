@@ -26,10 +26,10 @@ During our research, we conducted several surveys and interviews with end-users 
 <img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Dishes%20Hierarchy.jpg" width=500>
 
 #### Iterative Machine Learning
-<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Iterative%20ML.jpg" width=500>
+<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Iterative%20ML.jpg" width=750>
 
 #### Visual Analytics Dashboard for ML Model Developers
-<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/VA%20Dashboard.jpg" width=500>
+<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/VA%20Dashboard.jpg" width=800>
 
 #### Dashboard for Data analysts and Restaurant Managers
-<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Final%20Dashboard.jpg" width=500>
+<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Final%20Dashboard.jpg" width=800>
