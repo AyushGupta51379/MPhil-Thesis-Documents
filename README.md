@@ -4,6 +4,18 @@
 
 The MPhil thesis of Ayush Gupta (author), completed at HKUST, is a testament to his extensive research conducted between 2020 and 2022. The focus of this work spans several areas, including Data Science, Machine Learning, and Software Engineering. While this thesis encapsulates the primary components of the research, it doesn't entirely encompass the full range of scientific and engineering efforts put forth by the author.
 
+## Brief summary of Data Scientist and ML Engineer work done
+
+* Engineered data-driven solutions for an industry project on food waste monitoring in high-traffic restaurants
+* Reduced storage costs by 100 times by optimizing the code for object detection and image extraction from videos
+* Designed the complete data process. Processed 22,000 hours of 4K UHD videos by automating via deep learning
+* Developed and deployed deep learning models, using Python, achieving 91% accuracy in image classification
+* Utilized MySQL for database queries and Python libraries such as Keras for developing Computer vision solutions
+* Created interactive dashboard, via JavaScript, Vue.js & D3.js, to analyze data of 600,000 restaurant visitors
+* Implemented deep learning models via CNN, VGG, Resnet, Mobilenet. Performed transfer learning using ImageNet
+* Developed an iterative machine learning (ML) technique to solve the complex issues in food waste recognition
+
+
 ### Report and Presentation Uploaded
 
 ### Contribution: This MPhil Thesis represents 90% or more of the author's direct research on this project.
