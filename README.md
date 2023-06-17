@@ -31,6 +31,8 @@ During our research, we conducted several surveys and interviews with end-users 
 
 ### Images
 
+Since there is some issue with Jio Internet service in India, the images on github may not load corretcly, use another internet service provider to load them properly
+
 #### Workflow of System Designed
 <img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Workflow.jpg" width=500 class="center">
 
