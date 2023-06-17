@@ -1,4 +1,4 @@
-### Copyright: Reproduction prohibited: No work can be copied from these documents without the written consent of the author: Ayush Gupta
+### Copyright: Reproduction prohibited: No work can be copied from the this github repository without the written consent of the author: Ayush Gupta
 
 ## MPhil-Thesis-Documents: From Aug 2022
 
