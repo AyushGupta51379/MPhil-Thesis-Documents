@@ -20,16 +20,16 @@ During our research, we conducted several surveys and interviews with end-users 
 ### Images
 
 #### Workflow of System Designed
-<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Workflow.jpg" width=500>
+<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Workflow.jpg" width=500 class="center">
 
 #### Dishes Hierarchy
-<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Dishes%20Hierarchy.jpg" width=500>
+<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Dishes%20Hierarchy.jpg" width=500 class="center">
 
 #### Iterative Machine Learning
-<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Iterative%20ML.jpg" width=750>
+<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Iterative%20ML.jpg" width=750 class="center">
 
 #### Visual Analytics Dashboard for ML Model Developers
-<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/VA%20Dashboard.jpg" width=800>
+<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/VA%20Dashboard.jpg" width=800 class="center">
 
 #### Dashboard for Data analysts and Restaurant Managers
-<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Final%20Dashboard.jpg" width=800>
+<img src="https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Final%20Dashboard.jpg" width=800 class="center">
