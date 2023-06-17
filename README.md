@@ -20,7 +20,7 @@ During our research, we conducted several surveys and interviews with end-users 
 ### Images
 
 #### Workflow of System Designed
-![System Workflow Image]([http://url/to/img.png](https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Workflow.jpg))
+![System Workflow Image](http://url/to/img.png](https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Workflow.jpg)
 
 #### Dishes Hierarchy
 ![Dishes Hierarchy Image](https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Dishes%20Hierarchy.jpg)
