@@ -1,12 +1,12 @@
+### Copyright: Reproduction prohibited: No work can be copied from these documents without the written consent of the author: Ayush Gupta
+
 # MPhil-Thesis-Documents
 
 The MPhil thesis of Ayush Gupta (author), completed at HKUST, is a testament to his extensive research conducted between 2020 and 2022. The focus of this work spans several areas, including Data Science, Machine Learning, and Software Engineering. While this thesis encapsulates the primary components of the research, it doesn't entirely encompass the full range of scientific and engineering efforts put forth by the author.
 
 ### Report and Presentation Uploaded
 
-### Copyright: Reproduction prohibited: No work can be copied from these documents without the written consent of the author: Ayush Gupta
-
-### Contribution: Although the project was a group project, this MPhil Thesis represents 80% or more of the author's direct research on this project.
+### Contribution: This MPhil Thesis represents 90% or more of the author's direct research on this project.
 
 ### Abstract
 
@@ -17,3 +17,19 @@ months. The best dish classification model achieved 91.2% accuracy for eight cat
 
 During our research, we conducted several surveys and interviews with end-users and domain experts to gather requirements and test the usefulness of deep learning models, the VA system, and dashboards. The data analysts were satisfied with the design of the final dashboard, and the model developers were satisfied with the models for tray image extraction, dish classification, VA system, and prototype for quantity classification. However, quantity classification needs deeper exploration. The approaches from this research can be extended to many restaurants worldwide to reduce food waste.
 
+### Images
+
+#### Workflow of System Designed
+![System Workflow Image]([http://url/to/img.png](https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Workflow.jpg))
+
+#### Dishes Hierarchy
+![Dishes Hierarchy Image](https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Dishes%20Hierarchy.jpg)
+
+#### Iterative Machine Learning
+![Iterative Machine Learning Image](https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Iterative%20ML.jpg)
+
+#### Visual Analytics Dashboard for ML Model Developers
+![VA Dashboard Image](https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/VA%20Dashboard.jpg)
+
+#### Dashboard for Data analysts and Restaurant Managers
+![Dashboard Image](https://github.com/AyushGupta51379/MPhil-Thesis-Documents/blob/main/Images/Final%20Dashboard.jpg)
