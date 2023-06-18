@@ -10,6 +10,7 @@
 * Created interactive dashboard, via JavaScript, Vue.js & D3.js, to analyze data of 600,000 restaurant visitors
 * Implemented deep learning models via CNN, VGG, Resnet, Mobilenet. Performed transfer learning using ImageNet
 * Developed an iterative machine learning (ML) technique to solve the complex issues in food waste recognition
+* Documented the research part of the work done in my MPhil Thesis
 
 ## MPhil-Thesis-Documents: From Aug 2022
 
