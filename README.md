@@ -1,4 +1,4 @@
-### Copyright: Reproduction prohibited: No work can be copied from the this github repository without the written consent of the author: Ayush Gupta
+### Copyright: Reproduction prohibited: No work can be copied from the this github repository and its contents without the written consent of the author: Ayush Gupta
 
 ## Brief summary of Data Scientist and ML Engineer work done
 
