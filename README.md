@@ -1,13 +1,5 @@
 ### Copyright: Reproduction prohibited: No work can be copied from the this github repository without the written consent of the author: Ayush Gupta
 
-## MPhil-Thesis-Documents: From Aug 2022
-
-Degree: MPhil in Computer Science and Engineering from The Hong Kong University of Science and Technology (HKUST)
-
-Thesis Title: “Monitoring Food Waste in Restaurants Using Computer Vision and Data Visualization”
-
-The MPhil thesis of Ayush Gupta (author), completed at HKUST, is a testament to his extensive research conducted between 2020 and 2022. The focus of this work spans several areas, including Data Science, Machine Learning, and Software Engineering. While this thesis encapsulates the primary components of the research, it doesn't entirely encompass the full range of scientific and engineering efforts put forth by the author.
-
 ## Brief summary of Data Scientist and ML Engineer work done
 
 * Engineered data-driven solutions for an industry project on food waste monitoring in high-traffic restaurants
@@ -19,6 +11,13 @@ The MPhil thesis of Ayush Gupta (author), completed at HKUST, is a testament to 
 * Implemented deep learning models via CNN, VGG, Resnet, Mobilenet. Performed transfer learning using ImageNet
 * Developed an iterative machine learning (ML) technique to solve the complex issues in food waste recognition
 
+## MPhil-Thesis-Documents: From Aug 2022
+
+Degree: MPhil in Computer Science and Engineering from The Hong Kong University of Science and Technology (HKUST)
+
+Thesis Title: “Monitoring Food Waste in Restaurants Using Computer Vision and Data Visualization”
+
+The MPhil thesis of Ayush Gupta (author), completed at HKUST, is a testament to his extensive research conducted between 2020 and 2022. The focus of this work spans several areas, including Data Science, Machine Learning, and Software Engineering. While this thesis encapsulates the primary components of the research, it doesn't entirely encompass the full range of scientific and engineering efforts put forth by the author.
 
 ### Report and Presentation Uploaded
 
